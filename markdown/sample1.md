@@ -2,7 +2,7 @@ Andriod | iOS | Windows
 --- | :---: | ---:
 App for Andriod | App for iOS | App for Windows
 fnvaivbn'aoeubv'oaebhianfv | soidfhnvoawbhvouaufbvbujfviu | oifvovbhIRUVBHw[iouvbiuvbhwiu
-[textforlink](https:www.google.com)
+[textforlink](https://www.google.com)
 
 
 
