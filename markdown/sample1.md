@@ -1,6 +1,8 @@
 ```cpp
 void testfunction (int ii)
-{ii = ii+1;}
+{
+ii = ii + 1;
+}
 ```
 
 
