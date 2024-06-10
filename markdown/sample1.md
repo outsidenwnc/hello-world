@@ -1,3 +1,14 @@
+Andriod | iOS | Windows
+--- | :---: | ---:
+App for Andriod | App for iOS | App for Windows
+fnvaivbn'aoeubv'oaebhianfv | soidfhnvoawbhvouaufbvbujfviu | oifvovbhIRUVBHw[iouvbiuvbhwiu
+[textforlink](https:www.google.com)
+
+
+
+
+
+
 + [ ] task 1 check box brackets with space
 + [ ] task 2
 
